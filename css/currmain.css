@@ -1,0 +1,45 @@
+body {
+    margin-right:auto;
+    margin-left:auto;
+    background-color:rgb(255, 231, 210);
+    width:700px;
+}
+
+h1, h2, h3 {
+    margin:5px;
+}
+
+p {
+    margin:5px;
+}
+
+img {
+    margin:5px;
+}
+
+header {
+    border:black solid 2px;
+    border-radius:5px;
+    margin:5px;
+    background-color:white;
+    width:700px;
+}
+
+article {
+    border:black solid 2px;
+    border-radius:5px;
+    margin:5px;
+    background-color:white;
+    width:700px;
+}
+
+span {
+    background-color:rgb(65, 64, 64);
+    border-radius:4px;
+    color:white;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:3px;
+    padding-top:3px;
+    font-size:15px;
+}
