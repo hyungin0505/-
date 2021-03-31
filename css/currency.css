@@ -1,0 +1,36 @@
+body {
+    background-color:rgb(255, 231, 210);
+}
+
+h1, h2, h3 {
+    margin:5px;
+}
+
+p {
+    margin:5px;
+}
+
+header {
+    border:black solid 2px;
+    border-radius:5px;
+    background-color:white;
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+section {
+    width:695px;
+    margin-top:10px;
+    margin-right:auto;
+    margin-left:auto;
+    border:black solid 2px;
+    border-radius:5px;
+    background-color:white;
+}
+
+img {
+    border:rgb(0, 0, 0) solid 3px;
+    border-radius:8px;
+    margin:5px;
+}
